@@ -1,1 +1,0 @@
-PARA CREAR UN PERFIL PERSONAL DEBE ENTRAR A LA CARPETA "Usuarios" y crear una carpeta con tu nombre de usuario
