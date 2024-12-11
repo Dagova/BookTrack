@@ -9,4 +9,4 @@ Estaran todos los clubes de lectura que se apunten a este repositorio si pertene
 ### Usu sin club 📙
 Estaran los usuarios independientes que no pertenecen a un club de lectura entre en la carpeta de usu_sin_club
 ### Libros recomendados 🗂️
-Son los libros que ponen los usuarios que les han gustado poniendose una valoracion lo pueden rellenar tanto los clubes como los usuarios sin club 
+Son los libros que ponen los usuarios que les han gustado poniendose una valoracion lo pueden rellenar tanto los clubes como los usuarios sin club   
