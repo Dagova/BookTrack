@@ -19,4 +19,3 @@ Rellene campo
 
 ### Fecha de ingreso
 Rellene campo
-
