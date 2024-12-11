@@ -2,7 +2,7 @@
 El Quijote de la Mancha
 
 ### Imagen
-![El Quijote de la Mancha](https://upload.wikimedia.org/wikipedia/commons/1/1f/Don_Quijote_primera_edicion.jpg)
+![El Quijote de la Mancha](https://m.media-amazon.com/images/I/91CIwR3QU1L._SY522_.jpg)
 
 ### Autor
 Miguel de Cervantes
