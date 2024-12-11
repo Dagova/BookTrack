@@ -6,7 +6,10 @@ Hola buenas este repositorio esta creado de forma en la que se extructura de la 
 
 ### Club de lectura 📚
 Estaran todos los clubes de lectura que se apunten a este repositorio si perteneces a un club de lectura clicke en la carpeta de club de lectura alli encotraras el nombre de tu club en una carpeta 
-### Usu sin club 📙
+### Usuario sin club 📙
 Estaran los usuarios independientes que no pertenecen a un club de lectura entre en la carpeta de usu_sin_club
 ### Libros recomendados 🗂️
 Son los libros que ponen los usuarios que les han gustado poniendose una valoracion lo pueden rellenar tanto los clubes como los usuarios sin club   
+
+###Bugs o fallos en el repositorio 
+Si tienes algun fallo o algun bug en el repositorio reportalo subiendo un Issues diciendo lo que sucede con una descripcion metelo dentro de los proyectos de buggtracker
