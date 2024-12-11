@@ -1,15 +1,18 @@
-# SECCION DE LOS LIBROS RECOMENDADOS
+# LIBROS RECOMENDADOS 👋
 
-### AQUI SE INGRESAR UN ARCHIVO POR CADA LIBRO QUE SE QUIERA RECOMENDAR
+En esta carpeta estará la descripción de los libros recomendados que debe contener lo siguiente
 
-### ESTRUCTURA
+### Título del libro
+Rellene campo
 
-#### TITULO
+### Imagen
+Insetar imagen
 
-#### AUTOR
+### Autor
+Rellene campo
 
-#### ISBN
+### Género
+Rellene campo
 
-#### DESCRIPCION SIN SPOILER
-
-#### DESCRIPCION CON SPOILER Y CURIOSIDADES 
+### Año
+Rellene campo
