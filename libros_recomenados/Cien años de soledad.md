@@ -2,7 +2,7 @@
 Cien años de soledad
 
 ### Imagen
-![Cien años de soledad](https://upload.wikimedia.org/wikipedia/en/1/1b/100_years_of_solitude.jpg)
+![Cien años de soledad](https://m.media-amazon.com/images/I/51ptehuTIOL._SY445_SX342_.jpg)
 
 ### Autor
 Gabriel García Márquez
