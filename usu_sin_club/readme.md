@@ -2,16 +2,19 @@
 
 En esta carpeta estará la descripción de los usuarios siendo tal como
 
-### Nombre de usuario
+## Nombre de usuario
 Rellene campo
 
-### Libros leídos
+## Foto
+Inserte imagen
+
+## Libros leídos
 Rellene campo
 
-### Libros leyendo actualmente
+## Libros leyendo actualmente
 Rellene campo
 
-### Libros pendientes
+## Libros pendientes
 Rellene campo
 
 

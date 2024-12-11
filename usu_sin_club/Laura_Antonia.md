@@ -1,5 +1,8 @@
 **Nombre de usuario:** Laura Antonia
 
+## Foto 
+![Foto personal](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AV0A1987_Laura_Roge.jpg/800px-AV0A1987_Laura_Roge.jpg) 
+
 ## Libros leídos
 1. *Cien años de soledad* de Gabriel García Márquez  
 2. *1984* de George Orwell  
