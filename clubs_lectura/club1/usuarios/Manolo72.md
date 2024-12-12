@@ -17,7 +17,7 @@
 - 1984 de George Orwell  
 - El señor de los anillos de J.R.R. Tolkien  
 
-## Pruebas/retos del club
+## Retos del club
 - Reto de un libro con un tema histórico (Leído La ladrona de libros)  
 - Leer una novela policíaca (Leído Las aventuras de Sherlock Holmes)  
 - Reto de un autor/a clásico/a (Leído Persuasión)  
