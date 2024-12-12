@@ -11,5 +11,5 @@ Estaran los usuarios independientes que no pertenecen a un club de lectura entre
 ### Libros recomendados 🗂️
 Son los libros que ponen los usuarios que les han gustado poniendose una valoracion lo pueden rellenar tanto los clubes como los usuarios sin club   
 
-###Bugs o fallos en el repositorio 
+### Bugs o fallos en el repositorio 🧰
 Si tienes algun fallo o algun bug en el repositorio reportalo subiendo un Issues diciendo lo que sucede con una descripcion metelo dentro de los proyectos de buggtracker

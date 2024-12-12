@@ -17,7 +17,7 @@
 - Los hombres que no amaban a las mujeres de Stieg Larsson  
 - La isla del tesoro de Robert Louis Stevenson  
 
-## Pruebas/retos del club
+## Retos del club
 - Reto de un libro con un título intrigante (Leído El túnel)  
 - Leer una novela distópica (Leído Fahrenheit 451)  
 - Reto de un clásico literario (Leído Don Quijote de la Mancha)  
