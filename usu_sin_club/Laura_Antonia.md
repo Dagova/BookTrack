@@ -16,10 +16,3 @@
 1. *Matar a un ruiseñor* de Harper Lee  
 2. *El alquimista* de Paulo Coelho  
 3. *Harry Potter y la piedra filosofal* de J.K. Rowling  
-
-## Pruebas/retos del club
-1. Leer un libro en otro idioma (Actualmente leyendo *The Catcher in the Rye* de J.D. Salinger)  
-2. Reto de un libro con portada amarilla (Leído *El Gran Gatsby* de F. Scott Fitzgerald)  
-
-## Fecha de ingreso
-15/05/2023

@@ -16,11 +16,3 @@
 1. *Crimen y castigo* de Fyodor Dostoevsky  
 2. *Sapiens: De animales a dioses* de Yuval Noah Harari  
 3. *Cumbres Borrascosas* de Emily Brontë  
-
-## Pruebas/retos del club
-1. Reto de un libro de más de 500 páginas (Leído *Los pilares de la tierra*)  
-2. Leer una novela clásica (Leído *Orgullo y prejuicio*)  
-3. Reto de libro recomendado por un amigo (Leído *El principito*)  
-
-## Fecha de ingreso
-10/08/2022
